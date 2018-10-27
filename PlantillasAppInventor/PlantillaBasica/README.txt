@@ -40,7 +40,7 @@ Autor : lil-Makoto
 Version : 1.0
 Fecha : 16 de agosto de 2018
 
-contribudor : Jairo Reyes
+
 
 
 

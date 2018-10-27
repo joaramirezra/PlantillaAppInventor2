@@ -25,7 +25,7 @@ El panel de imagen esta listo para poder subir una imagen
 ### Pre-requisitos:
 
 Para poder ejecutar el proyecto necesitara
-* Tener una cuenta google
+* Tener una cuenta google.
 
 * Instalaccion
 

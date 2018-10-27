@@ -1,4 +1,4 @@
-Título del Proyecto
+# TÃ­tulo del Proyecto
 Plantilla app en blanco app inventor 2
 
 Resumen

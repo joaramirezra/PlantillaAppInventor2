@@ -30,11 +30,11 @@ Para poder ejecutar el proyecto necesitara
 
 Para poder ejecutar el archivo se debe seguir los siguientes pasos
 
-paso 1 : Dirigirse a appinventor.mit.edu/
-Paso 2 : Clickear en Create apps
-paso 3 : clickear en Projects/import project (.aia) from computer
-Paso 4 : seleccionar el .aia descargado en su computador
-paso 5 : aceptar y a usar
+- Paso 1 : Dirigirse a appinventor.mit.edu/
+- Paso 2 : Clickear en Create apps
+- Paso 3 : clickear en Projects/import project (.aia) from computer
+- Paso 4 : seleccionar el .aia descargado en su computador
+- Paso 5 : aceptar y a usar
 
 Autor : Johan Ramirez
 Version : 1.0

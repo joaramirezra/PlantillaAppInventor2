@@ -1,7 +1,7 @@
-Título del Proyecto
+## Título del Proyecto
 Plantilla app en blanco app inventor 2
 
-Resumen
+### Resumen
 Este repositorio contiene los archivos basicos para poder realizar una app de manera rapida
 ya que posee 6 pantallas distribuidas de la siguiente manera
 
@@ -12,7 +12,7 @@ ya que posee 6 pantallas distribuidas de la siguiente manera
 Pantalla de inicio : Se recomienda en la pantalla de inicio colocar el logo de la app, y un sonido de 1-2 [s] para poder generar asociacion
 esta pantalla debe cerrarse en maximo 3 segundos 
 
-Menu : Contiene 4 paneles de trabajo , Top , Botones Verticales , Botones Horizontales y Imagen, 
+**Menu** : Contiene 4 paneles de trabajo , Top , Botones Verticales , Botones Horizontales y Imagen, 
 
 	Los planeles de botones ya estan contruidos para que  cada boton se asocien a las 4 ventanas 
 	con nombre Pantalla1, Pantalla2, Pantalla3, Pantalla4
@@ -21,12 +21,12 @@ Menu : Contiene 4 paneles de trabajo , Top , Botones Verticales , Botones Horizo
  	
 	El panel de imagen esta listo para poder subir una imagen
 
-Pre-requisitos
+- Pre-requisitos
 
 Para poder ejecutar el proyecto necesitara
 	- Tener una cuenta google
 	
-Instalaccion
+- Instalaccion
 
 Para poder ejecutar el archivo se debe seguir los siguientes pasos
 
